@@ -6,7 +6,7 @@
         delayShow: 1000,
         /** Path to WebP logo (relative to page or absolute URL) */
         logoUrl: 'https://gebon-max.github.io/fafa828/logo.webp',
-        bannerUrl: 'https://gebon-max.github.io/fafa828/banner.webp', // Banner Image
+        bannerUrl: 'https://gebon-max.github.io/fafa828/banner.png', // Banner Image
         links: {
             line: 'https://rebrand.ly/fafa828main'
         },
