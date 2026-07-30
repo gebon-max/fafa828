@@ -139,7 +139,7 @@
                 position: relative;
                 width: 100%;
                 max-width: 370px;
-                background: linear-gradient(135deg, rgba(14, 38, 28, 0.96) 0%, rgba(6, 20, 15, 0.98) 100%);
+                background: linear-gradient(135deg, #3b0642 0%, #27082b 100%);
                 border-radius: 20px;
                 border: 1px solid rgba(193, 154, 73, 0.35); 
                 animation: pgxFinal3DEntrance 0.5s cubic-bezier(0.25, 1, 0.2, 1.1) forwards;
