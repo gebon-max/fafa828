@@ -388,7 +388,7 @@
                 border-radius: 14px;
                 text-align: left;
                 line-height: 1.55;
-                background: linear-gradient(165deg, rgba(14, 38, 28, 0.95) 0%, rgba(6, 20, 15, 0.98) 100%);
+                background: transparent;
                 border: 1px solid rgba(193, 154, 73, 0.22);
                 border-left: 3px solid #c19a49;
                 box-shadow:
